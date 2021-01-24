@@ -1,7 +1,3 @@
 one
 two
-three
-michael
-scott
-dundies
-hello?
+go!
